@@ -1,0 +1,23 @@
+.snapshot-circle img{
+    background-color: red;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 0 50px;
+  }
+.info{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.slick-slider1 {
+    display: block;
+    display: flex;
+    float: left;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    min-height: 1px;
+}
